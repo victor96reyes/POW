@@ -1,0 +1,273 @@
+html{
+  font-size: 100.01%;
+}
+/* reset */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,
+
+p,
+blockquote,pre,a,abbr,
+acronym,address,big,cite,
+code,del,dfn,em,font,img,ins,kbd,q,
+s,samp,small,strike,strong,sub,sup,tt,
+var,hr,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,
+form,label,legend,table,caption,tbody,tfont,
+thead,tr,th,
+td{
+	padding:0;
+	margin:0;
+	border:none;
+	outline:none;
+	vertical-align:baseline;
+	font-family:inherit;
+	font-size:100%;
+	}
+	dfn,i,cite,var,address,	
+em{
+	font-style:normal;
+	}
+	
+	th,b,strong,h1,h2,h3,h4,h5,
+h6{
+	font-weight:normal;
+	}
+textarea,input,
+select{
+	font-family:inherit;
+	font-size:1em;
+	}
+	blockquote,
+	q{
+		quotes:none;
+		}
+
+q:before,q:after,blockquote:before,
+blockquote:after{
+	content:'';
+	content:none;
+	}
+	ol,
+ul{
+	list-style:none;
+	}
+ins{
+	text-decoration:none;
+	}
+	del{
+		text-decoration:line-through;
+		}
+table{
+	border-collapse:collapse;
+	border-spacing:0;
+	}
+caption,th,
+td{
+	text-align:left;
+	}
+:focus{
+	outline:none;
+}
+
+html, body {
+  height:100%;
+}
+body{
+		font: .8125em/1.5 Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+		background: #fff;
+		color: #333;
+}
+header{
+	margin: absolute;
+}
+nav,
+section{
+	margin-right: 600px;
+	position: absolute;
+	
+}
+article{
+	margin-top: 30px;
+}
+aside,
+footer {
+	margin-top: 500px;
+	display: block;
+
+}
+footer nav{
+	background: #eee;
+}
+footer p{
+		background: #eee;
+
+}
+a {
+	color: #267;
+	text-decoration: underline;
+}
+a:hover {
+	color: #722;
+}
+p {
+	margin: 10 10 1em;
+}
+header {
+	color: #007e99;
+	font-size: 2em;
+	padding: 20px 50px;
+}
+header span {
+	color: #722;
+}
+header h2{
+}
+nav li {
+  display: inline;
+	margin: 0 15px;
+}
+nav li:first-child {
+	margin-left: 0;
+}
+nav span,
+nav a {
+	padding: 3px 15px 4px;
+  text-decoration: none;
+}
+nav span {
+	background: rgb(26,80,136);
+}
+nav span a{
+  
+}
+nav header {
+  font-size: 12px;
+  padding: 0;
+}
+.site-navigation{
+  display:table;
+}
+.site-navigation li{
+  border: 0;
+}
+.site-navigation a{
+  
+}
+section {
+
+	
+}
+section article {
+	margin-top: 50px;
+	position: fixed;
+	margin-right: 550px;
+
+  
+}
+section header {
+
+  
+}
+section h1 {
+  font-size: 1.5em;
+}
+section h2{
+	font-size: 0.5em;
+}
+section p{
+	margin-left: 50px;
+}
+aside {
+	margin-top: 0px;
+  margin-left: 900px;
+  position: absolute;
+  margin-right: 100px;
+
+}
+aside h1 {
+	margin-top: 100px;
+  color: #888;
+	font-size: 1.8em;
+
+}
+aside .tag-cloud {
+  padding: 15px 35px 10px 0;
+	text-align: 
+
+}
+aside .tag-cloud li {
+  display: inline;
+}
+aside .tag-cloud a {
+color: #69a
+}
+aside .tag-cloud a:hover {
+  color: #a67
+}
+aside .tag-cloud .word1 {
+	font-size: 1.0em;
+
+}
+aside .tag-cloud .word2 {
+	font-size: 1.3em;
+
+}
+aside .tag-cloud .word3 {
+	font-size: 1.5em;
+
+}
+aside .tag-cloud .word4 {
+	font-size: 1.5em;
+
+}
+aside .tag-cloud .word5 {
+	font-size: 1.5em;
+
+}
+aside .tag-cloud .word6 {
+	font-size: 1.5em;
+
+}
+aside .tag-cloud .word7 {
+	font-size: 2.0em;
+
+}
+aside .tag-cloud .word8 {
+    font-size: 1.5em;
+}
+aside .tag-cloud .word9 {
+    font-size: 1.5em;
+}
+aside .tag-cloud .word10 {
+	font-size: 2.5em;
+
+}
+figcaption {
+  font-style:italic;
+  font-size: 0.8em;
+  width: 100%;
+}
+footer {
+	padding: 10px 50px;
+}
+header:hover,
+nav:hover,
+section:hover,
+aside:hover,
+footer:hover {
+  background: #eee;
+}
+article:hover {
+	background: #ccc;
+}
+article header:hover {
+  background: #ccc;
+}
+.id
+{
+	margin-top: 100px;
+	height: 50px;
+	background: #eee;
+}
+.id ul{
+	margin-top: 12px;
+	background: #eee;
+}
